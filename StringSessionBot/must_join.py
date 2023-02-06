@@ -22,8 +22,8 @@ async def must_join_channel(bot: Client, msg: Message):
                     f"You must join [this channel]({link}) to use me. After joining try again !",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("✨ Join Channel ✨", url="https://t.me/sources_cods")],
-                        [InlineKeyboardButton("✨ Join Channel ✨", url="https://t.me/MOVIES_ZILAA")]
+                        [InlineKeyboardButton("✨ Join Channel ✨", url="https://t.me/vj_bots")],
+                        [InlineKeyboardButton("✨ Join Channel ✨", url="https://t.me/vj_bots")]
                     ])
                 )
                 await msg.stop_propagation()
