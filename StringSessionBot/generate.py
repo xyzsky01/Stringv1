@@ -22,7 +22,7 @@ from telethon.errors import (
 )
 
 ERROR_MESSAGE = "Oops! An exception occurred! \n\n**Error** : {} " \
-            "\n\nPlease Report to @Am_RoBots if there is an error " \
+            "\n\nPlease Report to @VJ_Bots if there is an error " \
             "sensitive information and you if want to report this as " \
             "this error message is not being logged by us!"
 
