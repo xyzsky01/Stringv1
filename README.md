@@ -56,12 +56,6 @@ Telegram bot to generate pyrogram and telethon string session.
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-## Support
-
-Channel :- [Blue Whale Bots](https://t.me/sources_cods)
-
-Group Chat :- [Group support](https://t.me/Official_Movies_Group)
-
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
