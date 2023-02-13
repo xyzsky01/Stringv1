@@ -10,7 +10,7 @@ If you don't trust this bot,
 1) don't read this message
 2) block bot or delete chat
 This Bot Works To Help You Get Session String Via Bot. Recommendations If You Want To Take String Use Another Account, So As Not To Delay. Thank you
-By @Anjel_neha
+By @Thisisskyy
     """
 
     # Home Button
@@ -48,7 +48,7 @@ By @Anjel_neha
     # About Message
     ABOUT = """
 **About This Bot** 
-A telegram bot to retrieve pyrograms and telethon string sessions by @StringRobotbot
+A telegram bot to retrieve pyrograms and telethon string sessions by @StringAppleBot
 Group Support : [Support](https://t.me/teamsupportgroup)
 Framework : [Pyrogram](docs.pyrogram.org)
 Language : [Python](www.python.org)
