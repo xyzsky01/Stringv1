@@ -1,9 +1,5 @@
-# Pyrogram and Telethon String Session Bot [TgStringGenBot](http://t.me/SessionString_Ro_Bot)
+# Pyrogram and Telethon String Session Bot
 
-
-> A star ⭐ from you means a lot to us!
-
-<p align="center"><a href="https://github.com/AM-ROBOTS"><img src="https://telegra.ph/file/3e9fb6ecc88a98a374c59.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -13,7 +9,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/Session-String-Generator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyzsky01/Stringv1)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -24,7 +20,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/8769ANURAG/Session-String-Generator
+   git clone https://github.com/xyzsky01/Stringv1
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -32,7 +28,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 4. Enter the directory
    ```markdown
-   cd StringSessionBot
+   cd Stringv1
    ```
 5. Run the file
    ```markdown
