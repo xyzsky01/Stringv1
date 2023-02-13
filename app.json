@@ -1,5 +1,5 @@
 {
-  "name": "String Session Generator",
+  "name": "String Session",
   "description": "Telegram bot to generate pyrogram string session",
   "logo": "https://telegra.ph/file/3e9fb6ecc88a98a374c59.jpg",
   "keywords": [
@@ -14,7 +14,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   },
   "addons": [
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/8769ANURAG/Session-String-Generator",
+  "repository": "https://github.com/xyzsky01/Stringv1",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
