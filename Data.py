@@ -16,7 +16,7 @@ By @Anjel_neha
     # Home Button
     home_buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(text="🏠 Home 🏠", callback_data="home")]
+        [InlineKeyboardButton(text="Home", callback_data="home")]
     ]
 
     generate_button = [
@@ -26,12 +26,12 @@ By @Anjel_neha
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/VJ_Bots")],
+        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/teamsupportgroup")],
         [
             InlineKeyboardButton("How to use me❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("About", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ Other bot info ♥", url="https://t.me/VJ_Bots")],
+        [InlineKeyboardButton("Other bot info", url="https://t.me/teamsupportgroup")],
     ]
 
     # Help Message
@@ -48,9 +48,9 @@ By @Anjel_neha
     # About Message
     ABOUT = """
 **About This Bot** 
-A telegram bot to retrieve pyrograms and telethon string sessions by @Am_RoBots
-Group Support : [Support](https://t.me/vj_bot_disscussion)
+A telegram bot to retrieve pyrograms and telethon string sessions by @StringRobotbot
+Group Support : [Support](https://t.me/teamsupportgroup)
 Framework : [Pyrogram](docs.pyrogram.org)
 Language : [Python](www.python.org)
-Developer : @VJ_Bots
+Developer : @Thisisskyy
     """
