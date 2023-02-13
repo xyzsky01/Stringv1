@@ -22,6 +22,6 @@ else:
     BOT_TOKEN = "6191852838:AAGhdLDw8R0rxaF68K7OefX5ks5fLH0iV0k"
     DATABASE_URL = "mongodb+srv://Forward123:Forward123@cluster0.4d1ljfv.mongodb.net/?retryWrites=true&w=majority"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
-    MUST_JOIN = "@VJ_Bots"
+    MUST_JOIN = "@teamsupportgroup"
     if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN[1:]
