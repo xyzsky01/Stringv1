@@ -1,4 +1,4 @@
-©DARKEMPIRESL
+code by DARKEMPIRESL
 
 from pyrogram import Client, filters
 from pyrogram.errors import UsernameInvalid, UsernameNotOccupied
