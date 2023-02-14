@@ -1,5 +1,3 @@
-code by DARKEMPIRESL
-
 from pyrogram import Client, filters
 from pyrogram.errors import UsernameInvalid, UsernameNotOccupied
 from pyrogram.types import Message
